@@ -1,1 +1,1 @@
-# line-sticker-get
+# Random created script for fun
